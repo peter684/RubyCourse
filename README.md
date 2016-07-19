@@ -1,2 +1,2 @@
 # RubyCourse
-Test file to see ow branches work
+Test file to see how branches work
